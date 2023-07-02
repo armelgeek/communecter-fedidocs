@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfedidocs=self.webpackChunkfedidocs||[]).push([[156],{8555:e=>{e.exports=JSON.parse('{"label":"Mentions","permalink":"/tags/mentions","allTagsPath":"/tags","count":1,"items":[{"id":"projects/kbin/mentions","title":"Mentions","description":"Example:","permalink":"/projects/kbin/mentions"}]}')}}]);

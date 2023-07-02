@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfedidocs=self.webpackChunkfedidocs||[]).push([[4721],{5360:e=>{e.exports=JSON.parse('{"title":"Create","description":"Create Activities","slug":"/category/create","permalink":"/category/create","navigation":{"previous":{"title":"Owncast","permalink":"/projects/owncast/"},"next":{"title":"Note","permalink":"/projects/owncast/create/note"}}}')}}]);

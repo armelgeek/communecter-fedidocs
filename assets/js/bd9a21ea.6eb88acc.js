@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfedidocs=self.webpackChunkfedidocs||[]).push([[2380],{439:e=>{e.exports=JSON.parse('{"label":"outbox","permalink":"/tags/outbox","allTagsPath":"/tags","count":1,"items":[{"id":"projects/kbin/outbox","title":"Outbox","description":"Example:","permalink":"/projects/kbin/outbox"}]}')}}]);

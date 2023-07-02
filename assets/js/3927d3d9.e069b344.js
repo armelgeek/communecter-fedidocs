@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfedidocs=self.webpackChunkfedidocs||[]).push([[8759],{744:s=>{s.exports=JSON.parse('{"label":"Tags","permalink":"/tags/tags","allTagsPath":"/tags","count":1,"items":[{"id":"projects/mastodon/hashtag","title":"Hashtag","description":"","permalink":"/projects/mastodon/hashtag"}]}')}}]);

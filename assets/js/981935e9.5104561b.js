@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfedidocs=self.webpackChunkfedidocs||[]).push([[5414],{645:e=>{e.exports=JSON.parse('{"label":"Social Networking","permalink":"/tags/social-networking","allTagsPath":"/tags","count":1,"items":[{"id":"projects/communecter/communecter","title":"Communecter","description":"What is Communecter ActivityPub?","permalink":"/projects/communecter/"}]}')}}]);
